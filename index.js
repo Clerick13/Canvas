@@ -1,6 +1,5 @@
 window.onload = function () {
   this.main();
-  setInterval(() => this.main(), 10000); 
 }
 
 async function main() {
